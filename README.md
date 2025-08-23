@@ -15,11 +15,13 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0141-linked-list-cycle) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 <!---LeetCode Topics End-->
