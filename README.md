@@ -6,6 +6,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0141-linked-list-cycle) |
 ## Linked List
 |  |
@@ -15,4 +16,8 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0141-linked-list-cycle) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
