@@ -23,6 +23,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0141-linked-list-cycle](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0283-move-zeroes) |
 ## Array
 |  |
 | ------- |
@@ -34,6 +35,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
