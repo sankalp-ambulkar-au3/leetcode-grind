@@ -31,6 +31,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0011-container-with-most-water](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0136-single-number) |
@@ -39,6 +40,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
