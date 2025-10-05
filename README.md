@@ -21,6 +21,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0011-container-with-most-water](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0202-happy-number) |
@@ -58,6 +59,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
 | ------- |
