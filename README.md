@@ -8,6 +8,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | ------- |
 | [0001-two-sum](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0202-happy-number) |
@@ -66,6 +67,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0125-valid-palindrome) |
@@ -125,6 +127,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0078-subsets](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
