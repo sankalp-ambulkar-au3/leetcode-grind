@@ -39,6 +39,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0011-container-with-most-water](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0056-merge-intervals) |
@@ -54,6 +55,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0202-happy-number) |
 ## Binary Search
@@ -133,4 +135,8 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0078-subsets](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0257-binary-tree-paths) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
