@@ -81,6 +81,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0094-binary-tree-inorder-traversal) |
 ## Recursion
 |  |
 | ------- |
@@ -114,11 +115,13 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
@@ -128,6 +131,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0257-binary-tree-paths) |
 ## Backtracking
