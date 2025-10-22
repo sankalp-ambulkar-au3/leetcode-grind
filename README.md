@@ -123,6 +123,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0102-binary-tree-level-order-traversal](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0110-balanced-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
@@ -131,6 +132,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0100-same-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0110-balanced-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
@@ -148,6 +150,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0102-binary-tree-level-order-traversal](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0110-balanced-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0257-binary-tree-paths) |
 ## Backtracking
 |  |
