@@ -83,6 +83,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0144-binary-tree-preorder-traversal) |
 ## Recursion
 |  |
 | ------- |
@@ -125,6 +126,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
@@ -135,6 +137,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
@@ -155,6 +158,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0257-binary-tree-paths) |
 ## Backtracking
 |  |
