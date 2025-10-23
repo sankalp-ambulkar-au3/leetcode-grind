@@ -131,6 +131,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0145-binary-tree-postorder-traversal](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0257-binary-tree-paths) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -168,6 +169,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0145-binary-tree-postorder-traversal](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0257-binary-tree-paths) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -182,4 +184,5 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
