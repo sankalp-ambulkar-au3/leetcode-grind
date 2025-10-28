@@ -135,6 +135,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0404-sum-of-left-leaves](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0563-binary-tree-tilt) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -152,6 +153,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0404-sum-of-left-leaves](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0563-binary-tree-tilt) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -182,6 +184,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0404-sum-of-left-leaves](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0563-binary-tree-tilt) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Backtracking
 |  |
