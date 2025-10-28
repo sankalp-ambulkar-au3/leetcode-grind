@@ -133,6 +133,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0226-invert-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0543-diameter-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -149,6 +150,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0226-invert-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -178,6 +180,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0226-invert-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0543-diameter-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Backtracking
@@ -194,5 +197,6 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
