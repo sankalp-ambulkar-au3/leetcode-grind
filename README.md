@@ -14,6 +14,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0142-linked-list-cycle-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0940-fruit-into-baskets](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0940-fruit-into-baskets) |
 ## Linked List
@@ -64,6 +65,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0940-fruit-into-baskets](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0940-fruit-into-baskets) |
 | [1028-interval-list-intersections](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1028-interval-list-intersections) |
@@ -115,6 +117,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | ------- |
 | [0053-maximum-subarray](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0347-top-k-frequent-elements](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -127,6 +130,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0049-group-anagrams](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0075-sort-colors) |
+| [0347-top-k-frequent-elements](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sliding Window
 |  |
@@ -228,4 +232,20 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 |  |
 | ------- |
 | [1028-interval-list-intersections](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1028-interval-list-intersections) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
