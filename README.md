@@ -20,6 +20,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0024-swap-nodes-in-pairs) |
@@ -72,6 +73,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0202-happy-number) |
@@ -105,6 +107,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0024-swap-nodes-in-pairs) |
 ## Dynamic Programming
