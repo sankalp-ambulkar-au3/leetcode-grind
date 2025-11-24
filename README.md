@@ -18,6 +18,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0268-missing-number](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0940-fruit-into-baskets](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0940-fruit-into-baskets) |
 ## Linked List
 |  |
@@ -72,6 +73,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0283-move-zeroes](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0940-fruit-into-baskets](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0940-fruit-into-baskets) |
 | [1028-interval-list-intersections](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1028-interval-list-intersections) |
 ## Math
