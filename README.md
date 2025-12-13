@@ -89,6 +89,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Greedy
 |  |
@@ -262,4 +263,8 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0347-top-k-frequent-elements) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
