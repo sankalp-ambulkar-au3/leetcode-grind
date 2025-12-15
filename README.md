@@ -57,6 +57,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0048-rotate-image](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0066-plus-one) |
@@ -95,6 +96,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0680-valid-palindrome-ii) |
 ## String
 |  |
@@ -123,6 +125,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Divide and Conquer
 |  |
