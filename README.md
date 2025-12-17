@@ -55,6 +55,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0011-container-with-most-water](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0053-maximum-subarray) |
@@ -91,6 +92,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0278-first-bad-version) |
