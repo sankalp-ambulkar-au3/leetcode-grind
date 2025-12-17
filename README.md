@@ -77,6 +77,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0860-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0940-fruit-into-baskets) |
 | [1028-interval-list-intersections](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1028-interval-list-intersections) |
 ## Math
@@ -101,6 +102,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0055-jump-game](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0860-lemonade-change) |
 ## String
 |  |
 | ------- |
