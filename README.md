@@ -187,6 +187,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0563-binary-tree-tilt](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0617-merge-two-binary-trees) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -205,6 +206,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0543-diameter-of-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0617-merge-two-binary-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -217,6 +219,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0226-invert-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0617-merge-two-binary-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -239,6 +242,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0563-binary-tree-tilt](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0617-merge-two-binary-trees) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
