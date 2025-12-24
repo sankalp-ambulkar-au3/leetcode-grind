@@ -57,6 +57,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0053-maximum-subarray) |
@@ -251,6 +252,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0090-subsets-ii) |
