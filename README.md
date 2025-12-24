@@ -249,6 +249,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0077-combinations](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0257-binary-tree-paths) |
