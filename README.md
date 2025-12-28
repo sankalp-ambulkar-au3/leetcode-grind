@@ -74,6 +74,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0268-missing-number) |
@@ -141,6 +142,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0055-jump-game](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0198-house-robber) |
 ## Divide and Conquer
 |  |
 | ------- |
