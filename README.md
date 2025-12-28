@@ -79,6 +79,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0219-contains-duplicate-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -143,6 +144,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0070-climbing-stairs](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0322-coin-change) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -231,6 +233,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0111-minimum-depth-of-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0617-merge-two-binary-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1448-count-good-nodes-in-binary-tree) |
