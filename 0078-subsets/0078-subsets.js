@@ -4,20 +4,17 @@
  */
 var subsets = function(nums) {
     const res =[];
-
-    function backTrack(index,subset)
+    function backtrack(index,path)
     {
-        if(index===nums.length)
+        res.push([...path])
+        for(let i=index;i<nums.length;i++)
         {
-            res.push([...subset])
-            return
+            path.push(nums[i])
+            backtrack(i+1,path)
+            path.pop()
         }
-        subset.push(nums[index])
-        backTrack(index+1,subset)
 
-        subset.pop()
-        backTrack(index+1,subset)
     }
-    backTrack(0,[])
+    backtrack(0,[])
     return res
 };
