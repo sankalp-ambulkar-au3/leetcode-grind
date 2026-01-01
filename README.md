@@ -93,6 +93,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0002-add-two-numbers](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0202-happy-number) |
@@ -141,6 +142,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | ------- |
 | [0053-maximum-subarray](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0198-house-robber) |
@@ -312,4 +314,8 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
