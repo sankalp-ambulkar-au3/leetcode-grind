@@ -88,6 +88,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0860-lemonade-change) |
+| [0931-minimum-falling-path-sum](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0931-minimum-falling-path-sum) |
 | [0940-fruit-into-baskets](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0940-fruit-into-baskets) |
 | [1028-interval-list-intersections](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1028-interval-list-intersections) |
 ## Math
@@ -153,6 +154,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0322-coin-change) |
+| [0931-minimum-falling-path-sum](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0931-minimum-falling-path-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -287,6 +289,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0048-rotate-image](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0064-minimum-path-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0931-minimum-falling-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
