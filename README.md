@@ -73,6 +73,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0120-triangle](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -148,6 +149,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0063-unique-paths-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0322-coin-change) |
