@@ -78,6 +78,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0136-single-number](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0268-missing-number) |
@@ -224,6 +225,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0112-path-sum](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0404-sum-of-left-leaves) |
@@ -242,6 +244,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0404-sum-of-left-leaves) |
@@ -289,6 +292,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0048-rotate-image](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0200-number-of-islands) |
 | [0931-minimum-falling-path-sum](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0931-minimum-falling-path-sum) |
 ## Binary Search Tree
 |  |
@@ -329,4 +333,8 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0062-unique-paths) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
