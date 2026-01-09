@@ -90,6 +90,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0503-next-greater-element-ii) |
 | [0860-lemonade-change](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0860-lemonade-change) |
 | [0931-minimum-falling-path-sum](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0931-minimum-falling-path-sum) |
 | [0940-fruit-into-baskets](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0940-fruit-into-baskets) |
@@ -141,6 +142,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0144-binary-tree-preorder-traversal](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0503-next-greater-element-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -350,4 +352,5 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
