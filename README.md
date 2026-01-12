@@ -240,6 +240,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0543-diameter-of-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0617-merge-two-binary-trees) |
+| [0684-redundant-connection](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0684-redundant-connection) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -257,6 +258,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0322-coin-change](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0617-merge-two-binary-trees) |
+| [0684-redundant-connection](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0684-redundant-connection) |
 | [0994-rotting-oranges](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -350,6 +352,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0684-redundant-connection) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1971-find-if-path-exists-in-graph) |
 ## Monotonic Stack
 |  |
@@ -359,5 +362,6 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0684-redundant-connection) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
