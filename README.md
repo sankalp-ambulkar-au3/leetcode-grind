@@ -21,6 +21,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0424-longest-repeating-character-replacement](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0940-fruit-into-baskets) |
 ## Linked List
 |  |
@@ -48,6 +49,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0283-move-zeroes](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0680-valid-palindrome-ii) |
 | [1028-interval-list-intersections](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1028-interval-list-intersections) |
 ## Array
@@ -141,6 +143,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0125-valid-palindrome](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0680-valid-palindrome-ii) |
 ## Stack
 |  |
@@ -207,6 +210,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0940-fruit-into-baskets) |
 ## Tree
 |  |
