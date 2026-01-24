@@ -10,6 +10,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0202-happy-number) |
@@ -139,6 +140,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0257-binary-tree-paths) |
@@ -208,6 +210,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0567-permutation-in-string) |
