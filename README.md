@@ -23,6 +23,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0424-longest-repeating-character-replacement](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0940-fruit-into-baskets) |
 ## Linked List
@@ -99,6 +100,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0496-next-greater-element-i](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0560-subarray-sum-equals-k) |
 | [0746-min-cost-climbing-stairs](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0860-lemonade-change) |
 | [0931-minimum-falling-path-sum](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0931-minimum-falling-path-sum) |
@@ -392,4 +394,8 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0387-first-unique-character-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
