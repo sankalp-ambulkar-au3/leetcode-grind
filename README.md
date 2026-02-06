@@ -104,6 +104,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0560-subarray-sum-equals-k](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0560-subarray-sum-equals-k) |
 | [0746-min-cost-climbing-stairs](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0860-lemonade-change) |
+| [0875-koko-eating-bananas](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0875-koko-eating-bananas) |
 | [0931-minimum-falling-path-sum](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0931-minimum-falling-path-sum) |
 | [0940-fruit-into-baskets](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0940-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0994-rotting-oranges) |
@@ -129,6 +130,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0278-first-bad-version](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0875-koko-eating-bananas](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0875-koko-eating-bananas) |
 ## Greedy
 |  |
 | ------- |
