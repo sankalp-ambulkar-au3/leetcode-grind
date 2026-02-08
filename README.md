@@ -108,6 +108,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0931-minimum-falling-path-sum](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0931-minimum-falling-path-sum) |
 | [0940-fruit-into-baskets](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0940-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0994-rotting-oranges) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1028-interval-list-intersections](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1028-interval-list-intersections) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Math
@@ -131,6 +132,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0300-longest-increasing-subsequence](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0875-koko-eating-bananas](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Greedy
 |  |
 | ------- |
