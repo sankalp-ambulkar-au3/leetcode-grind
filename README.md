@@ -111,6 +111,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1028-interval-list-intersections](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1028-interval-list-intersections) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Math
 |  |
 | ------- |
@@ -133,6 +134,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0875-koko-eating-bananas](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Greedy
 |  |
 | ------- |
