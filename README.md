@@ -273,6 +273,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0404-sum-of-left-leaves](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0547-number-of-provinces) |
 | [0563-binary-tree-tilt](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0617-merge-two-binary-trees) |
 | [0684-redundant-connection](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0684-redundant-connection) |
@@ -292,6 +293,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0226-invert-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0404-sum-of-left-leaves) |
+| [0547-number-of-provinces](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0617-merge-two-binary-trees) |
 | [0684-redundant-connection](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0684-redundant-connection) |
 | [0994-rotting-oranges](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0994-rotting-oranges) |
@@ -408,4 +410,12 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0560-subarray-sum-equals-k) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
