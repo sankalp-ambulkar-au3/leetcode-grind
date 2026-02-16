@@ -268,6 +268,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0144-binary-tree-preorder-traversal](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0404-sum-of-left-leaves) |
@@ -290,6 +291,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0111-minimum-depth-of-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0404-sum-of-left-leaves) |
@@ -417,5 +419,10 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0547-number-of-provinces) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
