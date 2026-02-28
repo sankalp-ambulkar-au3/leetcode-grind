@@ -110,6 +110,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0994-rotting-oranges](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1028-interval-list-intersections](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1028-interval-list-intersections) |
+| [1046-last-stone-weight](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Math
@@ -363,6 +364,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0347-top-k-frequent-elements) |
+| [1046-last-stone-weight](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
