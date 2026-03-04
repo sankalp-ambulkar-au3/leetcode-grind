@@ -51,6 +51,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0567-permutation-in-string) |
@@ -223,6 +224,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0215-kth-largest-element-in-an-array](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0435-non-overlapping-intervals) |
@@ -371,6 +373,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0621-task-scheduler) |
 | [1046-last-stone-weight](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1046-last-stone-weight) |
@@ -438,4 +441,12 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0207-course-schedule) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
