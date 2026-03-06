@@ -33,6 +33,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0002-add-two-numbers](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0142-linked-list-cycle-ii) |
@@ -203,6 +204,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0215-kth-largest-element-in-an-array) |
@@ -372,6 +374,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0347-top-k-frequent-elements) |
@@ -449,4 +452,8 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0295-find-median-from-data-stream) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
