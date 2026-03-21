@@ -11,6 +11,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0142-linked-list-cycle-ii) |
@@ -168,6 +169,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0076-minimum-window-substring](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0127-word-ladder) |
 | [0257-binary-tree-paths](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0424-longest-repeating-character-replacement) |
@@ -317,6 +319,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0207-course-schedule) |
