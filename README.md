@@ -13,6 +13,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0076-minimum-window-substring](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0202-happy-number) |
@@ -93,6 +94,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0120-triangle](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0200-number-of-islands) |
@@ -170,6 +172,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0091-decode-ways](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0139-word-break) |
 | [0257-binary-tree-paths](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0424-longest-repeating-character-replacement) |
@@ -205,6 +208,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0091-decode-ways](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0322-coin-change) |
@@ -426,6 +430,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0139-word-break) |
 ## Combinatorics
 |  |
 | ------- |
@@ -486,4 +491,8 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0743-network-delay-time) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
