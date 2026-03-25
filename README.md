@@ -181,6 +181,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0424-longest-repeating-character-replacement](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0680-valid-palindrome-ii) |
+| [1143-longest-common-subsequence](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -223,6 +224,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0518-coin-change-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0931-minimum-falling-path-sum) |
+| [1143-longest-common-subsequence](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1143-longest-common-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
