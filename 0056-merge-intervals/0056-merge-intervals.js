@@ -10,17 +10,22 @@
 // Push the last current in the result
 
 var merge = function (intervals) {
-  if (!intervals || intervals.length === 0) return [];
-  const res = [];
-  intervals.sort((a, b) => a[0] - b[0]);
-  let current = [...intervals[0]];
-  for (let i = 1; i < intervals.length; i++) {
-    const [start, end] = intervals[i];
-    if (start > current[1]) {
-      res.push(current);
-      current = [start, end];
-    } else current[1] = Math.max(current[1], end);
+  if(!intervals || !intervals.length)
+    return []
+  let res=[]
+  intervals.sort((a,b)=>a[0]-b[0])
+  let current=[...intervals[0]]
+  for(let i=1;i<intervals.length;i++)
+  {
+    let [start,end]=intervals[i]
+    if(start>current[1])
+    {
+      res.push(current)
+      current=[start,end]
+    }
+    else
+    current[1]=Math.max(end,current[1])
   }
-  res.push(current);
-  return res;
+  res.push(current)
+  return res
 };
