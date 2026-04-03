@@ -3,29 +3,23 @@
  * @return {number[][]}
  */
 var permute = function(nums) {
-    let used=Array(nums.lenght).fill(false)
-    let res=[]
-    function backtrack(path)
+  let res=[]
+  function backtrack(path)
+  {
+    if(path.length===nums.length)
     {
-        if(path.length===nums.length)
-        {
-            res.push([...path])
-            return
-        }
-        for(let i=0;i<nums.length;i++)
-        {
-            if(used[i])
-            continue
-
-            used[i]=true
-
-            path.push(nums[i])
-            backtrack(path)
-
-            path.pop()
-            used[i]=false
-        }
+      res.push([...path])
+      return
     }
-    backtrack([])
-    return res
-};
+    for(let num of nums)
+    {
+      if(path.includes(num))
+        continue;
+      path.push(num)
+      backtrack(path)
+      path.pop()
+    }
+  }
+  backtrack([])
+  return res
+}
