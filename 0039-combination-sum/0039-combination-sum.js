@@ -4,23 +4,23 @@
  * @return {number[][]}
  */
 var combinationSum = function(candidates, target) {
-    let res=[]
-    function backtrack(start,path,remainder)
+  let res=[]
+  function backtrack(start,path,remainder)
+  {
+    if(remainder===0)
     {
-        if(remainder===0)
-        {
-            res.push([...path])
-            return 
-        }
-        if(remainder<0)
-        return 
-        for(let i=start;i<candidates.length;i++)
-        {
-            path.push(candidates[i])
-            backtrack(i,path,remainder-candidates[i])
-            path.pop()
-        }
+      res.push([...path])
+      return 
     }
-    backtrack(0,[],target)
-    return res
+    if(remainder<0)
+    return
+    for(let i=start;i<candidates.length;i++)
+    {
+      path.push(candidates[i])
+      backtrack(i,path,remainder-candidates[i])
+      path.pop()
+    }
+  }
+  backtrack(0,[],target)
+  return res
 };
