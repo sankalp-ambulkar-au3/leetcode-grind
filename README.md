@@ -89,6 +89,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0066-plus-one](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -174,6 +175,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0049-group-anagrams](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0127-word-ladder) |
@@ -297,6 +299,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0100-same-tree) |
@@ -383,6 +386,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0046-permutations](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0257-binary-tree-paths) |
 ## Matrix
@@ -391,6 +395,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0048-rotate-image](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0417-pacific-atlantic-water-flow) |
 | [0931-minimum-falling-path-sum](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0931-minimum-falling-path-sum) |
