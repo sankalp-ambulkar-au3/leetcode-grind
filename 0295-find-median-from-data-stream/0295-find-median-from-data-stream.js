@@ -25,17 +25,18 @@ var MedianFinder = function() {
 
   push(val) {
     this.heap.push(val);
-    this._bubbleUp(this.heap.length - 1);
+    this._bubbleUp(this.heap.length - 1); // restore heap property upward
   }
 
   pop() {
     if (this.size() === 1) return this.heap.pop();
     const min = this.heap[0];
     this.heap[0] = this.heap.pop(); // move last to root
-    this._bubbleDown(0);
+    this._bubbleDown(0);            // restore heap property downward
     return min;
   }
 
+  // Bubble newly inserted element up until heap property is restored
   _bubbleUp(i) {
     while (i > 0 && this.heap[i] < this.heap[this.parent(i)]) {
       [this.heap[i], this.heap[this.parent(i)]] = [
@@ -46,6 +47,7 @@ var MedianFinder = function() {
     }
   }
 
+  // Bubble root element down until heap property is restored
   _bubbleDown(i) {
     let smallest = i;
     const l = this.left(i),
@@ -54,35 +56,37 @@ var MedianFinder = function() {
     if (r < this.size() && this.heap[r] < this.heap[smallest]) smallest = r;
     if (smallest !== i) {
       [this.heap[i], this.heap[smallest]] = [this.heap[smallest], this.heap[i]];
-      this._bubbleDown(smallest);
+      this._bubbleDown(smallest); // recurse until settled
     }
   }
 }
-
-this.left = new MinHeap();
-this.right = new MinHeap();
+  this.right = new MinHeap();
+  this.left = new MinHeap();
 };
 
-MedianFinder.prototype.addNum = function(num) {
-  if (this.left.size() === 0 || num <= -this.left.peek()) {
-    this.left.push(-num);          
-  } else {
-    this.right.push(num);          
-  }
+/**
+ * @param {number} num
+ * @return {void}
+ */
+MedianFinder.prototype.addNum = function (num) {
+  if (this.right.size() === 0 || num <= -this.right.peek())
+    this.right.push(-num);
+  else this.left.push(num);
 
-  if (this.left.size() > this.right.size() + 1) {
-    this.right.push(-this.left.pop());  
-  }
-  if (this.right.size() > this.left.size()) {
-    this.left.push(-this.right.pop());   
-  }
+  if (this.right.size() > this.left.size() + 1)
+    this.left.push(-this.right.pop());
+  if (this.left.size() > this.right.size() + 1)
+    this.right.push(-this.left.pop());
 };
 
-MedianFinder.prototype.findMedian = function() {
-  if (this.left.size() === this.right.size()) {
-    return (-this.left.peek() + this.right.peek()) / 2;  
-  }
-  return -this.left.peek();   
+/**
+ * @return {number}
+ */
+MedianFinder.prototype.findMedian = function () {
+  if (this.left.size() === this.right.size())
+    return (this.left.peek() + -this.right.peek()) / 2;
+  else if (this.left.size() > this.right.size()) return this.left.peek();
+  else return -this.right.peek();
 };
 
 /** 
