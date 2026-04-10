@@ -77,21 +77,18 @@ if (
   }
 }
 
-  let heap = new MinHeap()
-  let head =new ListNode(0)
-  let result=head
-  for(let list of lists)
-  {
-    if(list)
-    heap.push([list.val,list])
+  let minHeap = new MinHeap()
+  let res = new ListNode();
+  let head = res;
+  for (let list of lists) {
+    if (list) minHeap.push([list.val, list]);
   }
-    while(heap.size())
-    {
-        let [val,node]=heap.pop()
-        result.next=node
-        result=result.next
-        if(node.next)
-        heap.push([node.next.val,node.next])
-    }
-    return head.next
+
+  while (minHeap.size() > 0) {
+    let [val, node] = minHeap.pop();
+    res.next = node;
+    res = res.next;
+    if (node.next) minHeap.push([node.next.val, node.next]);
+  }
+  return head.next;
 };
