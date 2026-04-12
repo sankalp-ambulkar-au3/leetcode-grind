@@ -99,6 +99,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0128-longest-consecutive-sequence](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0139-word-break) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0200-number-of-islands) |
@@ -150,6 +151,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0278-first-bad-version) |
