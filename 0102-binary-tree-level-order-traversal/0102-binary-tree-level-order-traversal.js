@@ -10,25 +10,22 @@
  * @param {TreeNode} root
  * @return {number[][]}
  */
-var levelOrder = function(root) {
-  if(root===null)
-    return []
-  let queue=[root]
-  let res=[]
-  while(queue.length)
-  {
-    let length=queue.length
-    let level=[]
-    for(let i=0;i<length;i++)
-    {
-      let node = queue.shift()
-      level.push(node.val)
-      if(node.left)
-        queue.push(node.left)
-      if(node.right)
-        queue.push(node.right)
+var levelOrder = function (root) {
+  if (root === null) return [];
+  let queue = [root];
+  let res = [];
+  while (queue.length) {
+    let size = queue.length;
+    let level = [];
+    for (let i = 0; i < size; i++) {
+      let node = queue.shift();
+      level.push(node.val);
+      if (node.left) {
+        queue.push(node.left);
+      }
+      if (node.right) queue.push(node.right);
     }
-    res.push(level)    
+    res.push(level);
   }
-  return res
-}
+  return res;
+};
