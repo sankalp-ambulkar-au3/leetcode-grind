@@ -12,6 +12,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0049-group-anagrams](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0141-linked-list-cycle) |
@@ -95,6 +96,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -477,6 +479,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
