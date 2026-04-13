@@ -66,6 +66,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0680-valid-palindrome-ii) |
 | [1028-interval-list-intersections](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1028-interval-list-intersections) |
 ## Array
@@ -192,6 +193,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0387-first-unique-character-in-a-string](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0680-valid-palindrome-ii) |
 | [1143-longest-common-subsequence](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1143-longest-common-subsequence) |
 ## Stack
@@ -238,6 +240,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0416-partition-equal-subset-sum](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0518-coin-change-ii) |
+| [0647-palindromic-substrings](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1143-longest-common-subsequence) |
