@@ -177,6 +177,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0076-minimum-window-substring) |
@@ -214,6 +215,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0062-unique-paths) |
@@ -395,6 +397,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0046-permutations) |
