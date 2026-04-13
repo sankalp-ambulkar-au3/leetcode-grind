@@ -199,6 +199,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0143-reorder-list](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0739-daily-temperatures) |
@@ -508,6 +509,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
 |  |
