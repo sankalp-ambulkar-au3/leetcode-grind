@@ -331,6 +331,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0199-binary-tree-right-side-view](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0257-binary-tree-paths) |
@@ -360,6 +361,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0199-binary-tree-right-side-view](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0404-sum-of-left-leaves) |
@@ -511,6 +513,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | ------- |
 | [0133-clone-graph](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0743-network-delay-time) |
@@ -519,6 +522,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0210-course-schedule-ii) |
 ## Design
 |  |
 | ------- |
