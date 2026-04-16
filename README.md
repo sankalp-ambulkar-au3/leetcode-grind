@@ -504,6 +504,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
@@ -511,6 +512,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0207-course-schedule](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0743-network-delay-time) |
+| [1971-find-if-path-exists-in-graph](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
 | ------- |
