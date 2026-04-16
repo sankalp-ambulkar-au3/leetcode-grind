@@ -5,26 +5,26 @@
 var findRedundantConnection = function(edges) {
   let graph = {};
   for (let [u, v] of edges) {
-    if (!graph[u]) graph[u] = [];
-    if (!graph[v]) graph[v] = [];
-    if (hasPath(graph, u, v)) return [u, v];
+    graph[u] = graph[u] || [];
+    graph[v] = graph[v] || [];
+    if (hasPath(u, v)) return [u, v];
+
     graph[u].push(v);
     graph[v].push(u);
   }
+  function hasPath(source, destination) {
+    let visited = {};
 
-  function hasPath(graph, source, destination) {
-    let queue = [source];
-    let visited = new Set([source]);
-    while (queue.length) {
-      let node = queue.shift();
+    function dfs(node) {
       if (node === destination) return true;
+      visited[node] = true;
       for (let neigh of graph[node]) {
-        if (!visited.has(neigh)) {
-          queue.push(neigh);
-          visited.add(neigh);
+        if (!visited[neigh]) {
+          if (dfs(neigh)) return true;
         }
       }
+      return false;
     }
-    return false;
+    return dfs(source);
   }
 };
