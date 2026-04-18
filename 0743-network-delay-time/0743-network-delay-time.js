@@ -75,36 +75,24 @@ if (
     }
   }
 }
-
-    let edges={}
-    for(let [u,v,w] of times)
-    {
-        if(!edges[u])
-        edges[u]=[]
-
-        edges[u].push([v,w])
+let heap =new MinHeap()
+  let edges = {};
+  for (let [u, v, w] of times) {
+    if (!edges[u]) edges[u] = [];
+    edges[u].push([w, v]);
+  }
+  heap.push([0, k]);
+  let t = 0;
+  let visited = new Set();
+  while (heap.size() > 0) {
+    let [cost, node] = heap.pop();
+    if (visited.has(node)) continue;
+    visited.add(node);
+    t = Math.max(t, cost);
+    if (!edges[node]) continue;
+    for (let [weight, neigh] of edges[node]) {
+      if (!visited.has(neigh)) heap.push([weight + cost, neigh]);
     }
-    let minHeap = new MinHeap()
-    minHeap.push([0,k])
-    let t=0
-    let visited =new Set()
-    while(minHeap.size())
-    {
-        const[cost,node]=minHeap.pop()
-        if(visited.has(node))
-            continue
-        visited.add(node)
-        t=Math.max(t,cost)
-
-        if (!edges[node]) continue;
-
-        for(let [neigh,weight] of edges[node])
-        {
-            if(!visited.has(neigh))
-            {
-                minHeap.push([weight+cost,neigh])
-            }
-        }
-    }
-    return visited.size==n?t:-1
+  }
+  return visited.size === n ? t : -1;
 };
