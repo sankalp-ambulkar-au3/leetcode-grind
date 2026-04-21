@@ -151,6 +151,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0070-climbing-stairs](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -219,6 +220,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0024-swap-nodes-in-pairs](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -242,6 +244,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0322-coin-change](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0435-non-overlapping-intervals) |
+| [0509-fibonacci-number](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0746-min-cost-climbing-stairs) |
@@ -482,6 +485,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | ------- |
 | [0070-climbing-stairs](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0139-word-break) |
+| [0509-fibonacci-number](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0509-fibonacci-number) |
 ## Combinatorics
 |  |
 | ------- |
