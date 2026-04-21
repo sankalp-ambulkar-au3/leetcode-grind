@@ -138,6 +138,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [1046-last-stone-weight](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1631-path-with-minimum-effort](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1631-path-with-minimum-effort) |
 ## Math
 |  |
 | ------- |
@@ -163,6 +164,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0875-koko-eating-bananas](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1631-path-with-minimum-effort](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1631-path-with-minimum-effort) |
 ## Greedy
 |  |
 | ------- |
@@ -345,6 +347,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0684-redundant-connection](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0743-network-delay-time) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -373,6 +376,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0994-rotting-oranges](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -426,6 +430,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0931-minimum-falling-path-sum](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -448,6 +453,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0621-task-scheduler](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0743-network-delay-time) |
 | [1046-last-stone-weight](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1046-last-stone-weight) |
+| [1631-path-with-minimum-effort](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -507,6 +513,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0128-longest-consecutive-sequence](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0684-redundant-connection) |
+| [1631-path-with-minimum-effort](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
