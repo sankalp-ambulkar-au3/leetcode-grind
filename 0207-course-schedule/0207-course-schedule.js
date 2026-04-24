@@ -4,31 +4,26 @@
  * @return {boolean}
  */
 var canFinish = function(numCourses, prerequisites) {
-       let graph= Array.from({length:numCourses},()=>[])
-   let indegree=Array(numCourses).fill(0)
+  let graph = {};
+  let indegrees = new Array(numCourses).fill(0);
+  for (let [course, prereq] of prerequisites) {
+    if (!graph[prereq]) graph[prereq] = [];
+    graph[prereq].push(course);
+    indegrees[course]++;
+  }
+  let queue = [];
+  let processed = 0;
+  for (let i = 0; i < numCourses; i++) {
+    if (indegrees[i] === 0) queue.push(i);
+  }
+  while (queue.length) {
+    let course = queue.shift();
+    processed++;
+    for (let neigh of graph[course] || []) {
+      indegrees[neigh]--;
 
-   for(let [course,prerequisite] of prerequisites)
-   {
-    graph[prerequisite].push(course)
-    indegree[course]++
-   }
-   let queue=[]
-   for(let i=0;i<numCourses;i++)
-   {
-    if(indegree[i]===0)
-    queue.push(i)
-   }
-   let processed=0 
-   while(queue.length)
-   {
-    let node =queue.shift()
-    processed++
-    for(let neigh of graph[node])
-    {
-        indegree[neigh]--
-        if(indegree[neigh]===0)
-            queue.push(neigh)
+      if (indegrees[neigh] === 0) queue.push(neigh);
     }
-   }
-   return processed===numCourses
+  }
+  return processed === numCourses;
 };
