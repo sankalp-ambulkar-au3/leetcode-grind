@@ -140,6 +140,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [1046-last-stone-weight](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1514-path-with-maximum-probability](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1631-path-with-minimum-effort) |
 ## Math
 |  |
@@ -464,6 +465,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0621-task-scheduler](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0743-network-delay-time) |
 | [1046-last-stone-weight](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1046-last-stone-weight) |
+| [1514-path-with-maximum-probability](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
 |  |
@@ -537,6 +539,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0547-number-of-provinces](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1514-path-with-maximum-probability) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
@@ -561,6 +564,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1514-path-with-maximum-probability) |
 ## Trie
 |  |
 | ------- |
