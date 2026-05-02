@@ -250,6 +250,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0518-coin-change-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0746-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1143-longest-common-subsequence) |
 ## Divide and Conquer
@@ -354,6 +355,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0695-max-area-of-island](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1971-find-if-path-exists-in-graph) |
@@ -383,6 +385,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0695-max-area-of-island](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -464,6 +467,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0347-top-k-frequent-elements](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1046-last-stone-weight](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1046-last-stone-weight) |
 | [1514-path-with-maximum-probability](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1631-path-with-minimum-effort) |
@@ -539,6 +543,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0547-number-of-provinces](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1514-path-with-maximum-probability) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
@@ -564,6 +569,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1514-path-with-maximum-probability) |
 ## Trie
 |  |
