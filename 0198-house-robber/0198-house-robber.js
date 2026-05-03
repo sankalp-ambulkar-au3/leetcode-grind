@@ -3,15 +3,11 @@
  * @return {number}
  */
 var rob = function(nums) {
-    let memo={}
-    function dfs(house)
-    {
-        if(house>=nums.length)
-        return 0
-        if(memo[house]!==undefined)
-        return memo[house]
-        memo[house]=Math.max(nums[house]+dfs(house+2), dfs(house+1))
-        return memo[house]
-    }
-    return dfs(0)
+      let dp = Array.from(nums.length).fill(0);
+  dp[0] = nums[0];
+  dp[1] = Math.max(nums[0], nums[1]);
+  for (let i = 2; i < nums.length; i++) {
+    dp[i] = Math.max(nums[i] + dp[i - 2], dp[i - 1]);
+  }
+  return dp[nums.length-1];
 };
