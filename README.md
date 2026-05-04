@@ -137,6 +137,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0994-rotting-oranges](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1028-interval-list-intersections](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1028-interval-list-intersections) |
+| [1035-uncrossed-lines](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1035-uncrossed-lines) |
 | [1046-last-stone-weight](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -252,6 +253,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0746-min-cost-climbing-stairs](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0931-minimum-falling-path-sum) |
+| [1035-uncrossed-lines](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1035-uncrossed-lines) |
 | [1143-longest-common-subsequence](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1143-longest-common-subsequence) |
 ## Divide and Conquer
 |  |
