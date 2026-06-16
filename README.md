@@ -205,6 +205,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0680-valid-palindrome-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0680-valid-palindrome-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1143-longest-common-subsequence) |
+| [3612-process-string-with-special-operations-i](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/3612-process-string-with-special-operations-i) |
 ## Stack
 |  |
 | ------- |
@@ -581,4 +582,8 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0139-word-break) |
+## Simulation
+|  |
+| ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/3612-process-string-with-special-operations-i) |
 <!---LeetCode Topics End-->
