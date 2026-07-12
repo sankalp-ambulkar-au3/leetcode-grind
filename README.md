@@ -200,6 +200,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0257-binary-tree-paths](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0424-longest-repeating-character-replacement) |
+| [0516-longest-palindromic-subsequence](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0680-valid-palindrome-ii) |
@@ -252,6 +253,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0416-partition-equal-subset-sum](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
