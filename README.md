@@ -143,6 +143,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1514-path-with-maximum-probability](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1631-path-with-minimum-effort) |
+| [1690-stone-game-vii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1690-stone-game-vii) |
 ## Math
 |  |
 | ------- |
@@ -155,6 +156,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0202-happy-number](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0509-fibonacci-number) |
+| [1690-stone-game-vii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1690-stone-game-vii) |
 ## Binary Search
 |  |
 | ------- |
@@ -262,6 +264,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0931-minimum-falling-path-sum](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0931-minimum-falling-path-sum) |
 | [1035-uncrossed-lines](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1035-uncrossed-lines) |
 | [1143-longest-common-subsequence](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1143-longest-common-subsequence) |
+| [1690-stone-game-vii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1690-stone-game-vii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -588,4 +591,8 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 |  |
 | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/3612-process-string-with-special-operations-i) |
+## Game Theory
+|  |
+| ------- |
+| [1690-stone-game-vii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/1690-stone-game-vii) |
 <!---LeetCode Topics End-->
