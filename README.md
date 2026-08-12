@@ -128,6 +128,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0560-subarray-sum-equals-k](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0695-max-area-of-island) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0746-min-cost-climbing-stairs) |
@@ -183,6 +184,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0455-assign-cookies](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0680-valid-palindrome-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0860-lemonade-change) |
 ## String
 |  |
@@ -262,6 +264,7 @@ JavaScript-heavy LeetCode solutions with focus on patterns like sliding window, 
 | [0518-coin-change-ii](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/sankalp-ambulkar-au3/leetcode-grind/tree/master/0931-minimum-falling-path-sum) |
